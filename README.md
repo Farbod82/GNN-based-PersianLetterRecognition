@@ -9,20 +9,33 @@ that used similarity learning with Graph Edit Distances and so I implemented it 
 # Preprocessing 
 First the image is skeletonized and and then a graph is formed from the character each node being a keypoint of the letter and node values being normalized x and y of the points in the image.
 
+<table>
+  <tr>
+    <td>
+      <img src="image_utility/1.png" alt="Image 1">
+    </td>
+    <td>
+      Data Sample
+    </td>
+  </tr>
+  <tr>
+      <td>
+      <img src="image_utility/2.png" alt="Image 2">
+      </td>
+      <td>
+        Skeletonized
+      </td>
+   </tr>
+     <tr>
+      <td>
+      <img src="image_utility/3.png" alt="Image 3">
+      </td>
+      <td>
+        Graph
+      </td>
+   </tr>
+</table>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-https://www.sciencedirect.com/science/article/abs/pii/S003132031400274X
