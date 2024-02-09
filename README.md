@@ -12,7 +12,7 @@ First the image is skeletonized and and then a graph is formed from the characte
 <table>
   <tr>
     <td>
-      <img src="image_utility/1.png" alt="Image 1">
+      <img src="utility_images/1.png" alt="Image 1">
     </td>
     <td>
       Data Sample
@@ -20,7 +20,7 @@ First the image is skeletonized and and then a graph is formed from the characte
   </tr>
   <tr>
       <td>
-      <img src="image_utility/2.png" alt="Image 2">
+      <img src="utility_images/2.png" alt="Image 2">
       </td>
       <td>
         Skeletonized
@@ -28,7 +28,7 @@ First the image is skeletonized and and then a graph is formed from the characte
    </tr>
      <tr>
       <td>
-      <img src="image_utility/3.png" alt="Image 3">
+      <img src="utility_images/3.png" alt="Image 3">
       </td>
       <td>
         Graph
